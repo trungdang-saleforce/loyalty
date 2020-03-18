@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "categoryId": "1npihucw87eg8y8bgy",
+      "title": "Beer - Fruit Wine",
+      "description": "Circle K beer and wine products are served 24/7 with a full range of famous brands in the country and around the world. You will not worry about your fun being interrupted.",
+      "image": "http://triqtran.github.io/images/loyalty/categories/bia-ruou-trai-cay.png",
+      "webLink": "https://www.circlek.com.vn/vi/san-pham-dich-vu/san-pham/"
+    },
+    {
+      "categoryId": "1npihucw8gh98y8bgy",
+      "title": "Alcohol",
+      "description": "At Circle K, you will be assured that our products are guaranteed of quality and clear origin.",
+      "image": "http://triqtran.github.io/images/loyalty/categories/ruou.png",
+      "webLink": "https://www.circlek.com.vn/vi/san-pham-dich-vu/san-pham/"
+    },
+    {
+      "categoryId": "1npihucw8fh58y8bgy",
+      "title": "Cold Beverage",
+      "description": "Most of the favorite, quality and prestigious beverage brands in the market today are available at Circle K, from pure water, natural mineral water, carbonated water, energy drinks, body drink sports, tea, coffee, juice ...",
+      "image": "http://triqtran.github.io/images/loyalty/categories/nuoc-giai-khat.png",
+      "webLink": "https://www.circlek.com.vn/vi/san-pham-dich-vu/san-pham/"
+    },
+    {
+      "categoryId": "1npihucw834d8y8bgy",
+      "title": "Candy",
+      "description": "Circle K's variety of cakes, candies, chewing gum and chocolate will bring a lot of fun to your daily snack.",
+      "image": "http://triqtran.github.io/images/loyalty/categories/banh-keo.png",
+      "webLink": "https://www.circlek.com.vn/vi/san-pham-dich-vu/san-pham/"
+    },
+    {
+      "categoryId": "1npihucw12dg8y8bgy",
+      "title": "Fresh Bread",
+      "description": "Various types of fresh cakes are prepared with high quality ingredients, ensuring food safety, domestic and foreign origin with famous brands such as SAVOURE, D-PLUS, SAMPLIP, LEELA ... together Many attractive flavors will give customers interesting experiences.",
+      "image": "http://triqtran.github.io/images/loyalty/categories/banh-mi-tuoi.png",
+      "webLink": "https://www.circlek.com.vn/vi/san-pham-dich-vu/san-pham/"
+    },
+    {
+      "categoryId": "1npihucw87eg45kbgy",
+      "title": "Snack",
+      "description": "Circle K beer and wine products are served 24/7 with a full range of famous brands in the country and around the world. You will not worry about your fun being interrupted.",
+      "image": "http://triqtran.github.io/images/loyalty/categories/snack.png",
+      "webLink": "https://www.circlek.com.vn/vi/san-pham-dich-vu/san-pham/"
+    },
+    {
+      "categoryId": "1npihucw87eg12wbgy",
+      "title": "Ice Creams",
+      "description": "Circle K beer and wine products are served 24/7 with a full range of famous brands in the country and around the world. You will not worry about your fun being interrupted.",
+      "image": "http://triqtran.github.io/images/loyalty/categories/kem.png",
+      "webLink": "https://www.circlek.com.vn/vi/san-pham-dich-vu/san-pham/"
+    },
+    {
+      "categoryId": "1npihucw87eg3jfbgy",
+      "title": "Milk and extension",
+      "description": "Circle K beer and wine products are served 24/7 with a full range of famous brands in the country and around the world. You will not worry about your fun being interrupted.",
+      "image": "http://triqtran.github.io/images/loyalty/categories/sua-san-pham-tu-sua.png",
+      "webLink": "https://www.circlek.com.vn/vi/san-pham-dich-vu/san-pham/"
+    },
+    {
+      "categoryId": "1npihdj487eg8y8bgy",
+      "title": "Dry food",
+      "description": "Circle K beer and wine products are served 24/7 with a full range of famous brands in the country and around the world. You will not worry about your fun being interrupted.",
+      "image": "http://triqtran.github.io/images/loyalty/categories/thuc-pham-kho.png",
+      "webLink": "https://www.circlek.com.vn/vi/san-pham-dich-vu/san-pham/"
+    },
+    {
+      "categoryId": "1npihucw823k8y8bgy",
+      "title": "Comestic",
+      "description": "Circle K beer and wine products are served 24/7 with a full range of famous brands in the country and around the world. You will not worry about your fun being interrupted.",
+      "image": "http://triqtran.github.io/images/loyalty/categories/hoa-my-pham.png",
+      "webLink": "https://www.circlek.com.vn/vi/san-pham-dich-vu/san-pham/"
+    },
+    {
+      "categoryId": "1npihucw87eg8ynij",
+      "title": "General producs",
+      "description": "Circle K beer and wine products are served 24/7 with a full range of famous brands in the country and around the world. You will not worry about your fun being interrupted.",
+      "image": "http://triqtran.github.io/images/loyalty/categories/hang-tong-hop.png",
+      "webLink": "https://www.circlek.com.vn/vi/san-pham-dich-vu/san-pham/"
+    }
+  ]
+}

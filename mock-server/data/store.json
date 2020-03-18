@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "storeId": 1,
+      "name": "Circle K",
+      "phone": "+84 28 3526 1003",
+      "utilities": [
+        "https://www.circlek.com.vn/wp-content/uploads/2016/01/seat.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2016/01/1.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2016/02/31.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2018/10/icon_54_card_payment.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2016/01/phonecard.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2016/01/73.png"
+      ],
+      "address": {
+        "latitude": "10.7992202",
+        "longitude": "106.6471282",
+        "location": "33 Hoàng Hoa Thám, Phường 11, Quận Tân Bình, Tp HCM, Việt Nam"
+      }
+    },
+    {
+      "storeId": 2,
+      "name": "Circle K",
+      "phone": "+84 28 3526 1003",
+      "utilities": [
+        "https://www.circlek.com.vn/wp-content/uploads/2016/01/seat.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2016/01/1.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2016/02/31.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2018/10/icon_54_card_payment.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2016/01/phonecard.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2016/01/73.png"
+      ],
+      "address": {
+        "latitude": "10.7955759",
+        "longitude": "106.7192569",
+        "location": "Landmark 1, Phường 22, Quận Bình Thạnh, Tp Hcm, Việt Nam"
+      }
+    },
+    {
+      "storeId": 3,
+      "name": "Circle K",
+      "phone": "+84 28 3526 1003",
+      "utilities": [
+        "https://www.circlek.com.vn/wp-content/uploads/2016/01/seat.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2016/01/1.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2016/02/31.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2018/10/icon_54_card_payment.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2016/01/phonecard.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2016/01/73.png"
+      ],
+      "address": {
+        "latitude": "10.77496",
+        "longitude": "106.67477009999993",
+        "location": "306 Cao Thắng, Phường 12, Quận 10, Tp HCM, Việt Nam"
+      }
+    },
+    {
+      "storeId": 4,
+      "name": "Circle K",
+      "phone": "+84 28 3526 1003",
+      "utilities": [
+        "https://www.circlek.com.vn/wp-content/uploads/2016/01/seat.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2016/01/1.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2016/02/31.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2018/10/icon_54_card_payment.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2016/01/phonecard.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2016/01/73.png"
+      ],
+      "address": {
+        "latitude": "10.7729456",
+        "longitude": "106.70352809999997",
+        "location": "104 Hồ Tùng Mậu, Phường Bến Nghé, Quận 1, Tp.HCM, Việt Nam"
+      }
+    },
+    {
+      "storeId": 5,
+      "name": "Circle K",
+      "phone": "+84 28 3526 1003",
+      "utilities": [
+        "https://www.circlek.com.vn/wp-content/uploads/2016/01/seat.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2016/01/1.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2016/02/31.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2018/10/icon_54_card_payment.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2016/01/phonecard.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2016/01/73.png"
+      ],
+      "address": {
+        "latitude": "10.768191",
+        "longitude": "106.701053",
+        "location": "175 Nguyễn Công Trứ, Phường Bến Thành, Quận 1, Tp.HCM, Việt Nam"
+      }
+    },
+    {
+      "storeId": 6,
+      "name": "Circle K",
+      "phone": "+84 28 3526 1003",
+      "utilities": [
+        "https://www.circlek.com.vn/wp-content/uploads/2016/01/seat.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2016/01/1.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2016/02/31.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2018/10/icon_54_card_payment.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2016/01/phonecard.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2016/01/73.png"
+      ],
+      "address": {
+        "latitude": "10.7725285",
+        "longitude": "106.69585749999999",
+        "location": "52 Trương Định, Phường Bến Thành, Quận 1, Tp.HCM, Việt Nam"
+      }
+    },
+    {
+      "storeId": 7,
+      "name": "Circle K",
+      "phone": "+84 28 3526 1003",
+      "utilities": [
+        "https://www.circlek.com.vn/wp-content/uploads/2016/01/seat.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2016/01/1.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2016/02/31.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2018/10/icon_54_card_payment.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2016/01/phonecard.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2016/01/73.png"
+      ],
+      "address": {
+        "latitude": "10.774498",
+        "longitude": "106.70512299999996",
+        "location": "24 Hồ Huấn Nghiệp, Phường Bến Nghé, Quận 1, Tp.HCM, Việt Nam"
+      }
+    },
+    {
+      "storeId": 8,
+      "name": "Circle K",
+      "phone": "+84 28 3526 1003",
+      "utilities": [
+        "https://www.circlek.com.vn/wp-content/uploads/2016/01/seat.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2016/01/1.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2016/02/31.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2018/10/icon_54_card_payment.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2016/01/phonecard.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2016/01/73.png"
+      ],
+      "address": {
+        "latitude": "10.792414",
+        "longitude": "106.69131289999996",
+        "location": "2 Trần Khắc Chân, Phường Tân Định, Quận 1, Tp.HCM, Việt Nam"
+      }
+    },
+    {
+      "storeId": 9,
+      "name": "Circle K",
+      "phone": "+84 28 3526 1003",
+      "utilities": [
+        "https://www.circlek.com.vn/wp-content/uploads/2016/01/seat.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2016/01/1.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2016/02/31.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2018/10/icon_54_card_payment.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2016/01/phonecard.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2016/01/73.png"
+      ],
+      "address": {
+        "latitude": "10.76815",
+        "longitude": "106.69379400000002",
+        "location": "250 Đề Thám, Phường Phạm Ngũ Lão, Quận 1, Tp.HCM, Việt Nam"
+      }
+    },
+    {
+      "storeId": 10,
+      "name": "Circle K",
+      "phone": "+84 28 3526 1003",
+      "utilities": [
+        "https://www.circlek.com.vn/wp-content/uploads/2016/01/seat.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2016/01/1.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2016/02/31.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2018/10/icon_54_card_payment.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2016/01/phonecard.png",
+        "https://www.circlek.com.vn/wp-content/uploads/2016/01/73.png"
+      ],
+      "address": {
+        "latitude": "10.786109500465226",
+        "longitude": "106.69226713478565",
+        "location": "62 Phạm Ngọc Thạch, Phường 06, Quận 3, Tp.HCM, Việt Nam"
+      }
+    }
+  ]
+}

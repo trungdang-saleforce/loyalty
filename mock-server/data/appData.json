@@ -1,0 +1,12 @@
+{
+  "interestedFields": [
+    {"value": 1, "name": "Special Offers"},
+    {"value": 2, "name": "Food"},
+    {"value": 3, "name": "Drinks"},
+    {"value": 4, "name": "Phone Cards"}
+  ],
+  "logo": "http://triqtran.github.io/images/loyalty/others/logo-loyalty.png",
+  "bannerHeaderImage": "http://triqtran.github.io/images/loyalty/others/bg-header.png",
+  "privacyLink": "https://www.circlek.com.vn/vi/chinh-sach-bao-mat/",
+  "termConditionsLink": "https://www.circlek.com.vn/vi/dieu-khoan-su-dung/"
+}
