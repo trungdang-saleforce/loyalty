@@ -1336,7 +1336,7 @@
 			baseConfigurationReference = 362FEC3437064FB7F6710152 /* Pods-Loyalty.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CURRENT_PROJECT_VERSION = 2;
+				CURRENT_PROJECT_VERSION = 3;
 				DEAD_CODE_STRIPPING = NO;
 				DEVELOPMENT_TEAM = SYD9AD8A9Z;
 				HEADER_SEARCH_PATHS = "$(inherited)";
@@ -1359,7 +1359,7 @@
 			baseConfigurationReference = F9D778FFEB03A0C64524D495 /* Pods-Loyalty.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CURRENT_PROJECT_VERSION = 2;
+				CURRENT_PROJECT_VERSION = 3;
 				DEVELOPMENT_TEAM = SYD9AD8A9Z;
 				HEADER_SEARCH_PATHS = "$(inherited)";
 				INFOPLIST_FILE = Loyalty/Info.plist;
