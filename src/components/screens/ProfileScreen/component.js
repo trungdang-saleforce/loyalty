@@ -28,7 +28,7 @@ export default class ProfileComponent extends Component {
     interestedFields: this.props.user.interestedFields || [],
     language: this.props.user.language || "en-English",
     name: this.props.user.name || "",
-    phone: this.props.user.phone || "+84 ",
+    phone: this.props.user.phone || "",
   }
 
   setInterests = (itemInterest) => {
