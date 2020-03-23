@@ -24,16 +24,17 @@ const dataJSON = {
 
 function* getAppData() {
   try {
-  //  const result = yield call(services.appData.getData)
-  //  if(isEmpty(result)) {
-  //    console.log('Resutl calling:', result)
-  //    return;
-  //  }
-  //  if(result.error < 0) {
-  //    yield put({ type: ACTION_TYPE.DO_APP_DATA_FAILURE, e: result.message })
-  //  }
-  //  yield put({type: ACTION_TYPE.DO_APP_DATA_SUCCESS, data: result.data})
-  yield put({type: ACTION_TYPE.DO_APP_DATA_SUCCESS, data: dataJSON})
+   const result = yield call(services.appData.getData)
+   if(isEmpty(result)) {
+     console.log('Resutl calling:', result)
+     return;
+   }
+   if(result.error < 0) {
+     yield put({ type: ACTION_TYPE.DO_APP_DATA_FAILURE, e: result.message })
+   }
+   console.log('Resutl calling:', result)
+   yield put({type: ACTION_TYPE.DO_APP_DATA_SUCCESS, data: result.data})
+  // yield put({type: ACTION_TYPE.DO_APP_DATA_SUCCESS, data: dataJSON})
    
   } catch (e) {
     yield put({
